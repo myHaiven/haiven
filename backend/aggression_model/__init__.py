@@ -1,1 +1,0 @@
-from backend.aggression_model.predict import *
